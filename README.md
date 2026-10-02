@@ -7,3 +7,9 @@ El número 1 es **Felipe Calderón**: la violencia de la guerra contra los cárt
 Es un recuento editorial. Los hechos que se narran están documentados; el orden es una lectura, no una sentencia.
 
 Pulsa **Empezar**. En pantalla ancha, la lista de la izquierda salta a cada nombre.
+
+## Video
+
+Archivo vertical listo, con la narración completa (2:45): [la-silla.mp4](./la-silla.mp4)
+
+1080×1920, formato 9:16.
