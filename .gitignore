@@ -1,0 +1,10 @@
+node_modules
+dist
+.grok
+.vercel
+artifacts
+audio-src
+screenshots
+*.log
+.DS_Store
+
