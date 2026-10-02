@@ -10,6 +10,7 @@ Pulsa **Empezar**. En pantalla ancha, la lista de la izquierda salta a cada nomb
 
 ## Video
 
-Archivo vertical listo, con la narración completa (2:45): [la-silla.mp4](./la-silla.mp4)
+Archivo vertical **con narración y animación** (zoom, cortes, mapa y rótulos), 1080×1920, 2:45:
 
-1080×1920, formato 9:16.
+- En el reproductor: pulsa **Ver video**
+- Descarga: [la-silla.mp4](./la-silla.mp4)
